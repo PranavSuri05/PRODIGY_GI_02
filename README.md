@@ -1,4 +1,4 @@
-# PRODIGY_GI_02
+# Image Generation with pre-trained models
 The Text-to-Image Generation Project allows users to create images based on textual descriptions. By utilizing a pre-trained Stable Diffusion model, the project converts text inputs into corresponding visual outputs. This README provides an in-depth explanation of the theoretical concepts behind the project, detailed installation instructions, usage guidelines, and contribution protocols.
 
 Machine Learning Machine learning (ML) is a subset of artificial intelligence where models learn patterns from data to make predictions or decisions without being explicitly programmed. In this project, ML models process text and generate images based on learned representations.
